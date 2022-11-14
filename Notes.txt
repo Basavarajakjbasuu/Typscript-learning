@@ -14,4 +14,5 @@ Typescript Intro:
 
   SYNTAX:
     Variable declartion.
+    
       let variableName:type = value
