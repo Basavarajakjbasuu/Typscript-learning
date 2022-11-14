@@ -1,0 +1,17 @@
+Typescript Intro:
+  
+  Types:
+    Number, String, Boolean, Null, Undefined, VOid, Object, Array, Tuples ....
+
+    Any, Never, Unknown
+
+  Situation:
+    Ex. Function accepts 2 numbers
+      > To check is function getting only numeric value as parameter
+      
+        Function return a string
+      > fountion shld return only string as output
+
+  SYNTAX:
+    Variable declartion.
+      let variableName:type = value
